@@ -1,0 +1,53 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  :root{--navy:#112E63;--steel:#2C6C99;--ice:#E8F0F7;--white:#fff;}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{width:1080px;height:1920px;font-family:'Inter',sans-serif;background:var(--navy);color:var(--white);position:relative;overflow:hidden}
+  .glow{position:absolute;width:1400px;height:1400px;border-radius:50%;background:radial-gradient(circle,rgba(44,108,153,.55),rgba(44,108,153,0) 65%);top:-420px;right:-560px}
+  .wrap{position:absolute;inset:0;padding:250px 84px 260px;display:flex;flex-direction:column}
+  .tag{display:inline-flex;align-items:center;gap:16px;font-weight:700;font-size:30px;letter-spacing:.18em;text-transform:uppercase;color:var(--ice)}
+  .dot{width:16px;height:16px;border-radius:50%;background:#5FB3E8}
+  .date{font-weight:500;font-size:28px;color:rgba(232,240,247,.7);margin-top:14px;letter-spacing:.04em}
+  h1{font-family:'Inter Display','Inter',sans-serif;font-weight:800;font-size:92px;line-height:1.02;letter-spacing:-.025em;margin-top:44px}
+  h1 em{font-style:normal;color:#7CC4F0}
+  .stat{margin-top:48px;display:flex;align-items:flex-end;gap:28px}
+  .num{font-family:'Inter Display';font-weight:900;font-size:190px;line-height:.82;letter-spacing:-.04em;color:var(--white)}
+  .numlbl{font-size:32px;font-weight:600;line-height:1.25;color:var(--ice);padding-bottom:10px}
+  .card{margin-top:52px;background:var(--white);color:var(--navy);border-radius:36px;padding:44px 50px}
+  .card h2{font-size:30px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--steel)}
+  .card p{font-size:38px;font-weight:600;line-height:1.3;margin-top:20px}
+  .src{margin-top:22px;font-size:24px;color:rgba(232,240,247,.65)}
+  .foot{margin-top:auto;display:flex;align-items:center;justify-content:space-between}
+  .logo{background:var(--white);border-radius:28px;padding:10px 34px 10px 12px;border-radius:90px;display:flex;align-items:center;gap:22px}
+  .av{position:relative;width:150px;height:150px;flex:none}
+  .avbg{position:absolute;inset:0;border-radius:50%;background:linear-gradient(160deg,#4F93C6,var(--steel) 45%,var(--navy))}
+  .av img{position:absolute;left:50%;bottom:0;height:184px;transform:translateX(-50%);clip-path:inset(-200px 0 0 0 round 0 0 75px 75px)}
+  .top{display:flex;justify-content:flex-end;align-items:flex-start}
+  .mark{background:var(--white);border-radius:20px;padding:12px 16px}
+  .mark img{height:96px;display:block}
+  .logo div{font-weight:800;color:var(--navy);font-size:30px;line-height:1.15}
+  .logo span{display:block;font-weight:600;color:var(--steel);font-size:24px}
+  .cta{font-size:32px;font-weight:700;text-align:right;line-height:1.3}
+  .cta b{color:#7CC4F0}
+</style></head>
+<body>
+<div class="glow"></div>
+<div class="wrap">
+  <div class="top"><div class="mark"><img src="assets/jwg_logo.png"></div></div>
+  <h1>{{HEADLINE}}</h1>
+  <div class="stat">
+    <div class="num">{{STAT}}</div>
+    <div class="numlbl">{{STAT_LABEL}}</div>
+  </div>
+  <div class="card">
+    <h2>What this means for you</h2>
+    <p>{{TAKEAWAY}}</p>
+  </div>
+  <div class="src">Source: {{SOURCE}}</div>
+  <div class="foot">
+    <div class="logo"><div class="av"><div class="avbg"></div><img src="assets/cutout.png"></div><div>Jimmy White<span>@jimmyknowsloans</span></div></div>
+    <div class="cta">{{CTA_LINE}}<br>DM me <b>"{{KEYWORD}}"</b></div>
+  </div>
+</div>
+</body></html>
