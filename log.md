@@ -8,3 +8,4 @@
 | 2026-10-26 | The Fed meets this week. Expect a pause. (~90% odds of a hold at Oct 28 decision) | Yahoo Finance (Oct 25) | FED |
 | 2026-10-27 | Down payment help just hit a record high (2,833 homebuyer programs tracked in Q3) | HousingWire / Down Payment Resource Q3 HPI (Oct 22) | HELP |
 | 2026-10-28 | Chicago home prices lead the U.S. 6 months straight (+6.7% y/y in Aug vs. 2.1% national) | S&P Cotality Case-Shiller (Oct 27) | PRICES |
+| 2026-10-29 | The Fed held. Now a December hike looms (84.6% CME FedWatch odds of Dec hike; 10-2 hold vote) | Real Estate News / CME FedWatch (Oct 28) | RATES |
