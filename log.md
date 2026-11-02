@@ -10,3 +10,4 @@
 | 2026-10-28 | Chicago home prices lead the U.S. 6 months straight (+6.7% y/y in Aug vs. 2.1% national) | S&P Cotality Case-Shiller (Oct 27) | PRICES |
 | 2026-10-29 | The Fed held. Now a December hike looms (84.6% CME FedWatch odds of Dec hike; 10-2 hold vote) | Real Estate News / CME FedWatch (Oct 28) | RATES |
 | 2026-10-30 | Builders are cutting prices on new homes (43% of builders cut prices in Oct, highest share 2020–2026) | Chicago Agent Magazine / NAHB HMI (Oct 29) | NEWBUILD |
+| 2026-11-02 | U.S. home prices just dipped for the first time in 3 years (median sale price -0.1% y/y, 4 wks to Oct 25) | Redfin Housing Market Update (Oct 29) | LEVERAGE |
