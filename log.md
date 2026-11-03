@@ -11,3 +11,4 @@
 | 2026-10-29 | The Fed held. Now a December hike looms (84.6% CME FedWatch odds of Dec hike; 10-2 hold vote) | Real Estate News / CME FedWatch (Oct 28) | RATES |
 | 2026-10-30 | Builders are cutting prices on new homes (43% of builders cut prices in Oct, highest share 2020–2026) | Chicago Agent Magazine / NAHB HMI (Oct 29) | NEWBUILD |
 | 2026-11-02 | U.S. home prices just dipped for the first time in 3 years (median sale price -0.1% y/y, 4 wks to Oct 25) | Redfin Housing Market Update (Oct 29) | LEVERAGE |
+| 2026-11-03 | Homeownership for under-35s just slipped (36.6% in Q3 2026, down 0.9 pts y/y) | NAHB Eye on Housing / U.S. Census HVS (Oct 28) | FIRSTHOME |
