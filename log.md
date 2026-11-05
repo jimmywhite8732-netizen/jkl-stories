@@ -13,3 +13,4 @@
 | 2026-11-02 | U.S. home prices just dipped for the first time in 3 years (median sale price -0.1% y/y, 4 wks to Oct 25) | Redfin Housing Market Update (Oct 29) | LEVERAGE |
 | 2026-11-03 | Homeownership for under-35s just slipped (36.6% in Q3 2026, down 0.9 pts y/y) | NAHB Eye on Housing / U.S. Census HVS (Oct 28) | FIRSTHOME |
 | 2026-11-04 | Fewer Chicago homes are hitting the market (Chicago-metro new listings -7.4% y/y in Oct) | Realtor.com October Housing Report (Nov 4) | LISTINGS |
+| 2026-11-05 | Illinois home prices lead the nation (+6.9% y/y in Sept, #1 state) | Cotality Home Price Insights (Nov 3) | ILLINOIS |
