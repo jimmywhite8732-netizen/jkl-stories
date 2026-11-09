@@ -15,3 +15,4 @@
 | 2026-11-04 | Fewer Chicago homes are hitting the market (Chicago-metro new listings -7.4% y/y in Oct) | Realtor.com October Housing Report (Nov 4) | LISTINGS |
 | 2026-11-05 | Illinois home prices lead the nation (+6.9% y/y in Sept, #1 state) | Cotality Home Price Insights (Nov 3) | ILLINOIS |
 | 2026-11-06 | First-time buyers are inching back (22% share of all buyers, up from record-low 21%; median first-time buyer age 40) | NAR 2026 Profile of Home Buyers and Sellers (Nov 5) | FIRST |
+| 2026-11-09 | Buyers hit pause. That's your opening (U.S. newly pending listings -16.8% y/y in Oct; Chicago-metro sales -6.7% y/y) | Zillow October Market Report (Nov 5) | OPENING |
