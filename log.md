@@ -18,3 +18,4 @@
 | 2026-11-09 | Buyers hit pause. That's your opening (U.S. newly pending listings -16.8% y/y in Oct; Chicago-metro sales -6.7% y/y) | Zillow October Market Report (Nov 5) | OPENING |
 | 2026-11-10 | The market just hit balanced territory (4.6 months of U.S. supply, 4 wks to Nov 1, up from 4; Redfin calls 4–5 balanced) | Redfin Housing Market Update (Nov 5) | BALANCE |
 | 2026-11-11 | Condo buyers now have the upper hand (123% more U.S. condo sellers than buyers in Sept., up from 95.5%; Chicago condo market balanced) | Redfin Condo Market Report (Nov 9) | CONDO |
+| 2026-11-12 | Buyers are jumping back in (U.S. purchase mortgage applications +8% w/w, seasonally adjusted, week ending Nov 6; rates eased 4th straight week) | MBA Weekly Applications Survey (Nov 11) via CalculatedRisk | PREAPPROVE |
