@@ -20,3 +20,4 @@
 | 2026-11-11 | Condo buyers now have the upper hand (123% more U.S. condo sellers than buyers in Sept., up from 95.5%; Chicago condo market balanced) | Redfin Condo Market Report (Nov 9) | CONDO |
 | 2026-11-12 | Buyers are jumping back in (U.S. purchase mortgage applications +8% w/w, seasonally adjusted, week ending Nov 6; rates eased 4th straight week) | MBA Weekly Applications Survey (Nov 11) via CalculatedRisk | PREAPPROVE |
 | 2026-11-13 | Home sales hit the lowest since 2010 (U.S. existing-home sales -5.5% m/m in Oct, SAAR 3.75M, lowest since Aug 2010; Midwest median price +1.5% y/y) | NAR Existing-Home Sales Report (Nov 12) | NEGOTIATE |
+| 2026-11-16 | Sellers now outnumber buyers by a record margin (70.5% more U.S. sellers than buyers in Oct., widest gap in records back to 2013; Chicago balanced at 8.1% more sellers than buyers) | Redfin Buyers vs. Sellers Report (Nov 12) | EDGE |
