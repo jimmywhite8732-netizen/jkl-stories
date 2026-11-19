@@ -1,9 +1,31 @@
 # Daily Story Runbook — @jimmyknowsloans
 
-Runs Monday–Friday at ~6:00am CT. Goal: one real estate news Instagram + Facebook Story,
+Runs Monday–Friday at ~6:00am CT. Goal: one Instagram + Facebook Story (educational or news),
 queued in Metricool to auto-publish at **8:00am CT**.
 
-## 1. Pick the story
+## 0. News or educational? (alternate 50/50 — Jimmy's call, Nov 19 2026)
+- Check the `Type` column of the last row in `log.md` and do the **opposite** type today
+  (last row NEWS → today EDU; last row EDU → today NEWS).
+- **No repeat data themes:** do not use a theme (pending sales, existing-home sales, inventory /
+  supply, buyers vs. sellers, home prices, builder sentiment, mortgage applications, Fed) that
+  appears in any of the last 10 log rows. If every fresh news story repeats a recent theme,
+  make it an EDU day instead.
+
+### Educational (EDU) days
+- One evergreen lesson for first-time buyers, backed by one real number from an authoritative
+  source (myFICO, CFPB, Fannie Mae / Freddie Mac, HUD / FHA, IHDA, VA, NAR Profile of Buyers,
+  Illinois Realtors, county/city sites). Verify the number on the source page.
+- Topic ideas (don't repeat one already in `log.md`): credit score factors, credit utilization,
+  pre-qualified vs. pre-approved, what documents you need to apply, debt-to-income explained,
+  why not to open new credit before closing, what closing costs include, earnest money,
+  home inspection vs. appraisal, IHDA programs, gift funds, FHA vs. conventional basics,
+  how long pre-approval lasts, Illinois property tax basics / homestead exemption,
+  first-time buyer tax facts, PMI basics (no amounts), rent vs. own timeline.
+- Same compliance guardrails apply: still no specific rates, APRs, payments, down payment
+  amounts or loan terms.
+- `source` can be `Outlet, Page title (updated Mon YYYY)` for evergreen pages.
+
+## 1. Pick the story (NEWS days)
 - Search the last 24–72 hours of real estate / mortgage / housing news.
 - Prefer, in order: (a) Chicagoland / Illinois / Will County housing news, (b) national news
   with a clear local angle (Fed, housing data releases, inventory, prices, programs like IHDA / DPA),
