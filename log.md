@@ -23,3 +23,4 @@
 | 2026-11-16 | Sellers now outnumber buyers by a record margin (70.5% more U.S. sellers than buyers in Oct., widest gap in records back to 2013; Chicago balanced at 8.1% more sellers than buyers) | Redfin Buyers vs. Sellers Report (Nov 12) | EDGE |
 | 2026-11-17 | Pending home sales just hit a record low (U.S. pending sales -15.5% y/y, seasonally adjusted, 4 wks to Nov 8; lowest level in Redfin records) | Redfin Housing Market Update (Nov 12) | QUIET |
 | 2026-11-18 | Builder confidence just hit a 14-year low (NAHB/Wells Fargo HMI 25 in Nov, lowest since April 2012; 46% of builders cut prices, median 6%; 68% offered incentives) | Inman / NAHB Housing Market Index (Nov 17) | BUILDER |
+| 2026-11-19 | Home contracts hit a record low, again (Midwest pending home sales -14.0% y/y in Oct., -2.7% m/m; U.S. -4.7% m/m, -16.7% y/y, second straight record-low month) | NAR Pending Home Sales Report (Nov 18) | WINTER |
