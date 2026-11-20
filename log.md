@@ -24,3 +24,4 @@
 | 2026-11-17 | NEWS | Pending home sales just hit a record low (U.S. pending sales -15.5% y/y, seasonally adjusted, 4 wks to Nov 8; lowest level in Redfin records) | Redfin Housing Market Update (Nov 12) | QUIET |
 | 2026-11-18 | NEWS | Builder confidence just hit a 14-year low (NAHB/Wells Fargo HMI 25 in Nov, lowest since April 2012; 46% of builders cut prices, median 6%; 68% offered incentives) | Inman / NAHB Housing Market Index (Nov 17) | BUILDER |
 | 2026-11-19 | EDU | The #1 thing that moves your credit score (payment history = 35% of a FICO Score, biggest factor) | myFICO, What's in My FICO Scores (updated Oct 2026) | CREDIT |
+| 2026-11-20 | NEWS | Chicago-area home prices are still climbing (Chicago-metro median price +3.5% y/y in Oct. to $380,000; metro sales -10.4% y/y) | Illinois REALTORS October Report (Nov 19) | GAMEPLAN |
