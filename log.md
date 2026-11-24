@@ -26,3 +26,4 @@
 | 2026-11-19 | EDU | The #1 thing that moves your credit score (payment history = 35% of a FICO Score, biggest factor) | myFICO, What's in My FICO Scores (updated Oct 2026) | CREDIT |
 | 2026-11-20 | NEWS | Chicago-area home prices are still climbing (Chicago-metro median price +3.5% y/y in Oct. to $380,000; metro sales -10.4% y/y) | Illinois REALTORS October Report (Nov 19) | GAMEPLAN |
 | 2026-11-23 | EDU | Your closing numbers arrive before you sign (Closing Disclosure must arrive at least 3 business days before closing) | CFPB, When do I get a Closing Disclosure? (reviewed Aug 2024) | CLOSING |
+| 2026-11-24 | NEWS | Over 1 in 3 young Chicagoans live with parents (35.8% of Chicago-metro adults 18–34, 2023–25 pooled, down from 39.5% in 2020–22; Midwest 31.7%, +1.4 pts y/y) | Realtor.com Home for the Holidays Report (Nov 23) | MOVEOUT |
